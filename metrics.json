@@ -1,0 +1,15 @@
+{
+  "best_model": "LogisticRegression",
+  "best_score": 0.9256,
+  "models": {
+    "LogisticRegression": {
+      "accuracy": 0.9256
+    },
+    "RandomForest": {
+      "accuracy": 0.906
+    },
+    "GradientBoosting": {
+      "accuracy": 0.9176
+    }
+  }
+}
